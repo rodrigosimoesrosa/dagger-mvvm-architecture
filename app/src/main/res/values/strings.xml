@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DaggerMvvmArchicteture</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+
+    <string name="software_engineer_android_com">software-engineer@android.com</string>
+    <string name="password_sample">123</string>
+    <string name="empty_field">You must add %s</string>
+    <string name="retry">Retry</string>
+</resources>
