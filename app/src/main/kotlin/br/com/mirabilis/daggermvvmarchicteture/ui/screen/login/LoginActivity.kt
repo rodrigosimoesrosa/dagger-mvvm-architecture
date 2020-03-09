@@ -3,7 +3,6 @@ package br.com.mirabilis.daggermvvmarchicteture.ui.screen.login
 import android.content.Intent
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
-import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import br.com.mirabilis.daggermvvmarchicteture.R
 import br.com.mirabilis.daggermvvmarchicteture.base.pattern.observeEvent
